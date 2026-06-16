@@ -2,6 +2,7 @@ import { Routes, Route } from "react-router-dom";
 
 import Home from "../pages/Home/Home";
 import Destinations from "../pages/Destinations/Destinations";
+import DestinationDetails from "../pages/DestinationDetails/DestinationDetails";
 import Hotels from "../pages/Hotels/Hotels";
 import Restaurants from "../pages/Restaurants/Restaurants";
 import TravelTips from "../pages/TravelTips/TravelTips";
@@ -13,6 +14,7 @@ function AppRoutes() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/destinations" element={<Destinations />} />
+      <Route path="/destinations/:id" element={<DestinationDetails />} />
       <Route path="/hotels" element={<Hotels />} />
       <Route path="/restaurants" element={<Restaurants />} />
       <Route path="/travel-tips" element={<TravelTips />} />
