@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "The Elephant Corridor",
+    "destinationId": 1,
+    "destinationName": "Sigiriya",
+    "cuisine": "Sri Lankan",
+    "priceRange": "$$",
+    "rating": 4.5,
+    "description": "Authentic Sri Lankan rice and curry in an open-air setting overlooking paddy fields near Sigiriya.",
+    "mustTry": "Rice and curry platter with jackfruit, dhal, and pol sambol",
+    "openHours": "7:00 AM - 10:00 PM"
+  },
+  {
+    "id": 2,
+    "name": "Cafe Chill Ella",
+    "destinationId": 2,
+    "destinationName": "Ella",
+    "cuisine": "International",
+    "priceRange": "$",
+    "rating": 4.6,
+    "description": "A laid-back hillside cafe with hammocks, mountain views, and great smoothie bowls.",
+    "mustTry": "Avocado toast with egg and fresh passion fruit smoothie",
+    "openHours": "7:30 AM - 9:00 PM"
+  },
+  {
+    "id": 3,
+    "name": "Empire Cafe",
+    "destinationId": 3,
+    "destinationName": "Kandy",
+    "cuisine": "Sri Lankan Fusion",
+    "priceRange": "$$",
+    "rating": 4.4,
+    "description": "A charming cafe inside Kandy's colonial-era Central Market with traditional Sri Lankan snacks and good coffee.",
+    "mustTry": "Kottu roti with spicy chicken and a lime tea",
+    "openHours": "8:00 AM - 11:00 PM"
+  },
+  {
+    "id": 4,
+    "name": "The Wild Kitchen",
+    "destinationId": 4,
+    "destinationName": "Yala",
+    "cuisine": "Seafood & Sri Lankan",
+    "priceRange": "$$$",
+    "rating": 4.7,
+    "description": "Outdoor bush dining at Yala, featuring fresh catch from the nearby coast paired with jungle ambience.",
+    "mustTry": "Grilled lobster with coconut sauce and coconut rice",
+    "openHours": "7:00 AM - 9:00 PM"
+  },
+  {
+    "id": 5,
+    "name": "The Old Dutch House",
+    "destinationId": 5,
+    "destinationName": "Galle",
+    "cuisine": "European & Sri Lankan",
+    "priceRange": "$$$",
+    "rating": 4.8,
+    "description": "Fine dining inside a 300-year-old Dutch colonial building within Galle Fort, offering incredible atmosphere and creative cuisine.",
+    "mustTry": "Devilled prawns with flat bread and sunset cocktails from the terrace",
+    "openHours": "12:00 PM - 11:00 PM"
+  },
+  {
+    "id": 6,
+    "name": "Hill Club Nuwara Eliya",
+    "destinationId": 6,
+    "destinationName": "Nuwara Eliya",
+    "cuisine": "British Colonial",
+    "priceRange": "$$$",
+    "rating": 4.6,
+    "description": "A historic colonial club established in 1876 offering a formal English dining experience in the Sri Lankan highlands.",
+    "mustTry": "Traditional English roast dinner with Yorkshire pudding and freshly brewed Ceylon tea",
+    "openHours": "12:00 PM - 10:00 PM"
+  },
+  {
+    "id": 7,
+    "name": "Dewmini Roti Shop",
+    "destinationId": 7,
+    "destinationName": "Mirissa",
+    "cuisine": "Sri Lankan Street Food",
+    "priceRange": "$",
+    "rating": 4.7,
+    "description": "Famous small family-run spot on Mirissa Beach road serving every variety of roti imaginable at incredibly low prices.",
+    "mustTry": "Egg roti with pol sambol and fresh coconut water",
+    "openHours": "8:00 AM - 10:00 PM"
+  },
+  {
+    "id": 8,
+    "name": "Sithara Restaurant",
+    "destinationId": 8,
+    "destinationName": "Anuradhapura",
+    "cuisine": "Sri Lankan",
+    "priceRange": "$",
+    "rating": 4.3,
+    "description": "A beloved local spot near the ancient ruins serving generous rice and curry spreads to pilgrims and travelers.",
+    "mustTry": "Vegetarian rice and curry with local ash plantain curry",
+    "openHours": "6:00 AM - 9:00 PM"
+  }
+]

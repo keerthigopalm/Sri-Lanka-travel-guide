@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sigiriya Village Hotel",
+    "destinationId": 1,
+    "destinationName": "Sigiriya",
+    "category": "Luxury",
+    "price": "USD 120/night",
+    "rating": 4.5,
+    "amenities": ["Pool", "Restaurant", "WiFi", "Safari Tours", "Ayurveda Spa"],
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",
+    "description": "An eco-friendly luxury resort nestled in nature just minutes from Sigiriya Rock, offering stunning views and authentic Sri Lankan hospitality."
+  },
+  {
+    "id": 2,
+    "name": "Ella Jungle Resort",
+    "destinationId": 2,
+    "destinationName": "Ella",
+    "category": "Mid-Range",
+    "price": "USD 65/night",
+    "rating": 4.6,
+    "amenities": ["Pool", "Restaurant", "WiFi", "Hiking Guides", "Mountain View"],
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80",
+    "description": "Perched in the hills of Ella with panoramic mountain and valley views. A perfect base for exploring the tea country and hiking trails."
+  },
+  {
+    "id": 3,
+    "name": "Kandy House",
+    "destinationId": 3,
+    "destinationName": "Kandy",
+    "category": "Boutique",
+    "price": "USD 180/night",
+    "rating": 4.8,
+    "amenities": ["Pool", "Gourmet Dining", "WiFi", "Cultural Tours", "Garden"],
+    "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=600&q=80",
+    "description": "A stunning colonial-era manor house turned boutique hotel, set in a lush garden just outside Kandy with timeless elegance and impeccable service."
+  },
+  {
+    "id": 4,
+    "name": "Cinnamon Wild Yala",
+    "destinationId": 4,
+    "destinationName": "Yala",
+    "category": "Luxury",
+    "price": "USD 350/night",
+    "rating": 4.9,
+    "amenities": ["Pool", "Restaurant", "WiFi", "Jeep Safaris", "Naturalist Guide"],
+    "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=600&q=80",
+    "description": "Sri Lanka's premier wildlife lodge located inside Yala National Park, offering intimate safari experiences with expert naturalist guides."
+  },
+  {
+    "id": 5,
+    "name": "Fort Bazaar",
+    "destinationId": 5,
+    "destinationName": "Galle",
+    "category": "Boutique",
+    "price": "USD 220/night",
+    "rating": 4.7,
+    "amenities": ["Pool", "Restaurant", "WiFi", "Heritage Tours", "Roof Terrace"],
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
+    "description": "A beautifully restored Dutch colonial mansion inside Galle Fort, blending heritage architecture with contemporary luxury."
+  },
+  {
+    "id": 6,
+    "name": "Tea Bush Hotel",
+    "destinationId": 6,
+    "destinationName": "Nuwara Eliya",
+    "category": "Mid-Range",
+    "price": "USD 75/night",
+    "rating": 4.5,
+    "amenities": ["Fireplace", "Tea Lounge", "WiFi", "Garden Walk", "Mountain View"],
+    "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80",
+    "description": "Surrounded by tea bushes at high altitude, this cozy hotel offers a fireplace retreat with authentic Ceylonese tea experiences."
+  },
+  {
+    "id": 7,
+    "name": "Mirissa Hills",
+    "destinationId": 7,
+    "destinationName": "Mirissa",
+    "category": "Mid-Range",
+    "price": "USD 80/night",
+    "rating": 4.4,
+    "amenities": ["Pool", "Restaurant", "WiFi", "Beach Access", "Whale Watch Bookings"],
+    "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=600&q=80",
+    "description": "A breezy hilltop retreat above Mirissa Bay with ocean views, whale watching packages, and easy access to the beach."
+  },
+  {
+    "id": 8,
+    "name": "Ulagalla Resort",
+    "destinationId": 8,
+    "destinationName": "Anuradhapura",
+    "category": "Luxury",
+    "price": "USD 280/night",
+    "rating": 4.8,
+    "amenities": ["Pool", "Restaurant", "WiFi", "Cultural Tours", "Cycling"],
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "description": "An extraordinary heritage resort spread across a 58-acre private estate near the ancient city, offering an immersive Cultural Triangle experience."
+  }
+]
